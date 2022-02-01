@@ -1,0 +1,9 @@
+1) facebook lpogin video
+https://www.youtube.com/watch?v=_9HWMwr8VlM
+
+2) react-facebook-login npm
+https://www.npmjs.com/package/react-facebook-login
+
+3) run react app with https 
+($env:HTTPS = "true") -and (npm start)
+set HTTPS=true&&npm start
